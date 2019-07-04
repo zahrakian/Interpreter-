@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Interpreter_Engin.dir/Variable.cpp.o"
   "CMakeFiles/Interpreter_Engin.dir/Loop.cpp.o"
   "CMakeFiles/Interpreter_Engin.dir/Conditions.cpp.o"
+  "CMakeFiles/Interpreter_Engin.dir/IO.cpp.o"
   "Interpreter_Engin.pdb"
   "Interpreter_Engin"
 )

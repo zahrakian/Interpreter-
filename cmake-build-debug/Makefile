@@ -177,6 +177,33 @@ Engine.cpp.s:
 	$(MAKE) -f CMakeFiles/Interpreter_Engin.dir/build.make CMakeFiles/Interpreter_Engin.dir/Engine.cpp.s
 .PHONY : Engine.cpp.s
 
+IO.o: IO.cpp.o
+
+.PHONY : IO.o
+
+# target to build an object file
+IO.cpp.o:
+	$(MAKE) -f CMakeFiles/Interpreter_Engin.dir/build.make CMakeFiles/Interpreter_Engin.dir/IO.cpp.o
+.PHONY : IO.cpp.o
+
+IO.i: IO.cpp.i
+
+.PHONY : IO.i
+
+# target to preprocess a source file
+IO.cpp.i:
+	$(MAKE) -f CMakeFiles/Interpreter_Engin.dir/build.make CMakeFiles/Interpreter_Engin.dir/IO.cpp.i
+.PHONY : IO.cpp.i
+
+IO.s: IO.cpp.s
+
+.PHONY : IO.s
+
+# target to generate assembly for a file
+IO.cpp.s:
+	$(MAKE) -f CMakeFiles/Interpreter_Engin.dir/build.make CMakeFiles/Interpreter_Engin.dir/IO.cpp.s
+.PHONY : IO.cpp.s
+
 Loop.o: Loop.cpp.o
 
 .PHONY : Loop.o
@@ -273,6 +300,9 @@ help:
 	@echo "... Engine.o"
 	@echo "... Engine.i"
 	@echo "... Engine.s"
+	@echo "... IO.o"
+	@echo "... IO.i"
+	@echo "... IO.s"
 	@echo "... Loop.o"
 	@echo "... Loop.i"
 	@echo "... Loop.s"
