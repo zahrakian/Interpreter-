@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shadowkian/CLionProjects/Interpreter Engin/Conditions.cpp
+Conditions.h
+/home/shadowkian/CLionProjects/Interpreter Engin/Conditions.h
+
+/home/shadowkian/CLionProjects/Interpreter Engin/Conditions.h
+
+/home/shadowkian/CLionProjects/Interpreter Engin/Engine.cpp
+Engine.h
+/home/shadowkian/CLionProjects/Interpreter Engin/Engine.h
+
+/home/shadowkian/CLionProjects/Interpreter Engin/Engine.h
+
+/home/shadowkian/CLionProjects/Interpreter Engin/Loop.cpp
+Loop.h
+/home/shadowkian/CLionProjects/Interpreter Engin/Loop.h
+
+/home/shadowkian/CLionProjects/Interpreter Engin/Loop.h
+
+/home/shadowkian/CLionProjects/Interpreter Engin/Variable.cpp
+Variable.h
+/home/shadowkian/CLionProjects/Interpreter Engin/Variable.h
+
+/home/shadowkian/CLionProjects/Interpreter Engin/Variable.h
+
+/home/shadowkian/CLionProjects/Interpreter Engin/main.cpp
+iostream
+-
+vector
+-
+Engine.h
+/home/shadowkian/CLionProjects/Interpreter Engin/Engine.h
+
